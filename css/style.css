@@ -1,0 +1,24 @@
+/* General */
+
+body {
+  background: #fff;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.song-title {
+  font-size: 22px;
+}
+
+.song-autor {
+  font-size: 18px;
+}
+
+.song-text {
+  font-size: 14px;
+}

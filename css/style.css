@@ -1,7 +1,7 @@
 /* General */
 
 body {
-  background: #fff;
+  background: black;
 }
 
 .container {
@@ -10,6 +10,7 @@ body {
   align-items: center;
   justify-content: center;
   border: 1px solid black;
+  background: white;
 }
 
 .song-title {
